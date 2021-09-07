@@ -1,5 +1,21 @@
 [![](https://github.com/Eleks-front-camp/front-camp-2021/actions/workflows/tests.yml/badge.svg)](https://github.com/Eleks-front-camp/front-camp-2021/actions)
 
+Привіт!  
+
+Якщо Тобі вдалось склонувати репозиторій і Ти читаєш цей текст, вітаю, це вже 50% успіху.  
+Будь ласка, зверни увагу що різні задачі мають різну вагу у балах (дивись розділ ["Tasks list"](#Tasks_list) нижче).
+
+З чого почати:
+
+* почни з розділу ["To start project"](#To_start_project) і встанови залежності командою `npm install`
+* перевір що маєш nodejs **>= 14.0.0** та npm **>= 6.0.0** (нижчі версії, скоріше за все, теж підійдуть, але використовуй на свій ризик)
+* виконай команду `npm test` - всі тести крім тестів задачі "01-sum" мають "впасти" (виконатись з помилками)
+* передивись умови всіх задач і вибери ту з якої почнеш
+* подивись як запустити один окремий тест в розділі ["To run a single test"](#To_run_a_single_test) або як запустити тест з певної директорії (розділ ["To run tests from a specific directory"](#To_run_tests_from_a_specific_directory))
+
+**УВАГА: Після закінчення завдань, пушни зміни в свій Github репозиторій та додай посилання на цей репозиторій
+у системі "Moodle"**
+
 # Tasks list
 
 | **Task name**       | **Dragonkills points** | 
