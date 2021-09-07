@@ -80,4 +80,6 @@ For example, next command runs "describe" with name "sum" and "it" with name "sh
 
 `npm test -- -t 'sum should return sum of numbers'`
 
+[![asciicast](https://asciinema.org/a/MpbJdYjjmL3SzVkIHDT2CB7Vw.svg)](https://asciinema.org/a/MpbJdYjjmL3SzVkIHDT2CB7Vw)
+
 For more details please check official Jest documentation [Jest](https://jestjs.io/docs/en/cli.html#--testnamepatternregex)
