@@ -55,6 +55,8 @@ To run all project tests:
 
 `npm test`
 
+[![asciicast](https://asciinema.org/a/eQoQWJZxby1D70oyH3Isb81AS.svg)](https://asciinema.org/a/eQoQWJZxby1D70oyH3Isb81AS)
+
 ### To run tests from a specific directory
 
 Please use next command to run tests from a specific directory
@@ -66,6 +68,8 @@ For example, the next command runs all "spec" files from "01-sum" directory:
 `npm test -- --findRelatedTests 01-sum/**/*.spec.js`
 
 where `01-sum/**/*.spec.js` is a path to task directory 
+
+[![asciicast](https://asciinema.org/a/a7B58jAY26BfdOyvalZAKeyi2.svg)](https://asciinema.org/a/a7B58jAY26BfdOyvalZAKeyi2)
 
 ### To run a single test
 
